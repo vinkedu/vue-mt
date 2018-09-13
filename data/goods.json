@@ -7,13 +7,13 @@
 				{
 					"scheme": "meituanwaimai://waimai.meituan.com/productset?wmpoiid=495579&productsettag=1239222&provider=0",
 					"content": "",
-					"pic_url": "http://p1.meituan.net/xianfu/6588840adbcfbfe2c7a43aa69d4b36da107767.jpg",
+					"pic_url": "http://p1.meituan.net/deal/9e0affcbb79dd6b14eb380699946b64d27634.jpg@600w_600h_1l",
 					"sequence": 0,
 					"type": 1
 				}, {
 					"scheme": "meituanwaimai://waimai.meituan.com/productset?wmpoiid=495579&productsettag=1239645&provider=0",
 					"content": "",
-					"pic_url": "http://p1.meituan.net/xianfu/378446763167442a511dc9d4c675d877144571.jpg",
+					"pic_url": "http://p1.meituan.net/deal/0c9866a3acdedc99fb5b38e11a79e6ac104413.jpg@600w_600h_1l",
 					"sequence": 0,
 					"type": 1
 				}
@@ -69,7 +69,7 @@
 						"rating": {
 							"comment_count": 4,
 							"title": "外卖评价",
-							"snd_title": "4条评论",
+							"snd_title": "2条评论",
 							"praise_friends": "",
 							"like_ratio_desc": "好评度",
 							"like_ratio": "100%",
@@ -2365,7 +2365,7 @@
 			}
 		],
 		"poi_info": {
-			"name": "厦门麦当劳明智餐厅",
+			"name": "上海麦当劳餐厅",
 			"shipping_time": "00:00-04:45,05:00-10:15,10:30-23:59",
 			"wm_poi_score":4.7,
 			"discounts2": [
@@ -2379,7 +2379,7 @@
 			"delivery_time_tip": "30分钟",
 			"poi_back_pic_url": "http://p1.meituan.net/aichequan/dfd39d77d47dfd6df4e1c07ab2e87458193641.png",
 			"pic_url": "http://p0.meituan.net/xianfu/fd3a8462080c71f60f2581c2e7c1d3f43010.jpeg",
-			"head_pic_url": "http://p0.meituan.net/xianfu/19c002c5963a289206e756092995a2fe230070.jpg"
+			"head_pic_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536662698110&di=90aca67b8c7e009fcb13c98ac6dc8ffe&imgtype=0&src=http%3A%2F%2Fimg.1ppt.com%2Fuploads%2Fallimg%2F1511%2F1_151125155652_1.jpg"
 		}
 	},
 	"code": 0,

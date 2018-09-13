@@ -1,17 +1,17 @@
 {
 	"data": {
-		"comment_num": 3683,
+		"comment_num": 1868,
 		"avg_ship_time": 0,
 		"comment_score": 4.7,
 		"food_score": 4.7,
 		"delivery_score": 4.8,
 		"quality_score": 4.6,
 		"pack_score": 4.7,
-		"filter_type_num": 3683,
+		"filter_type_num": 1868,
 		"comment_score_type_infos": [
 			{
 				"comment_score_type": 1,
-				"total_count": 3428,
+				"total_count": 1688,
 				"comment_score_title": "好评"
 			}, {
 				"comment_score_type": 3,

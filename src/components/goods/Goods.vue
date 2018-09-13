@@ -34,7 +34,7 @@
         <!--专场-->
         <li class="container-list food-list-hook">
           <div v-for="(item,index) in container.operation_source_list" :key="index">
-            <img :src="item.pic_url">
+            <img v-lazy="item.pic_url">
           </div>
         </li>
         <!-- 具体分类 -->
