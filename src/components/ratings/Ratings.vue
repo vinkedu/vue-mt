@@ -96,6 +96,7 @@
               </div>
               <div class="content">
                 {{comment.comment}}
+                <img class="comment_pics" :src="comment.comment_pics" v-if="comment.comment_pics"/>
               </div>
             </div>
           </li>
@@ -415,5 +416,9 @@
 
   .ratings .ratings-wrapper .content .rating-list .comment-item .comment-main .img-wrapper img {
     width: 175px;
+  }
+  .comment_pics{
+    padding-top: 10px;
+    width: 250px;
   }
 </style>
