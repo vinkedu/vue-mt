@@ -32,10 +32,13 @@
 
       <div class="content">
         <div class="rating-select" v-if="ratings.tab">
-          <span
+          <!-- <span
             class="item"
             :class="{'active':selectType==2}"
             @click="selectTypeFn(2)">
+            {{ratings.tab[0].comment_score_title}}
+          </span> -->
+          <span class="item" :class="{'active':selectType==2}" @click="selectTypeFn(2)">
             {{ratings.tab[0].comment_score_title}}
           </span>
           <span
@@ -54,13 +57,18 @@
           </span>
         </div>
 
-        <div class="labels-view">
+        <!-- <div class="labels-view">
           <span
             class="item"
             v-for="(item,index) in ratings.labels"
             :key="index"
             :class="{'heigligh':item.label_star>0}"
           >
+            {{item.content}}{{item.label_count}}
+          </span>
+        </div> -->
+        <div class="labels-view">
+          <span class="item" v-for="(item,index) in ratings.labels" :key="index">
             {{item.content}}{{item.label_count}}
           </span>
         </div>
