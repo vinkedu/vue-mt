@@ -1,7 +1,5 @@
 Vue全家桶
 
-项目地址：https://github.com/vinkedu/vue-mt
-
 技术栈支持：Vueclin(btter-scroll、axios、lazy-load)，Node，npm
 
 项目描述：点餐联动、评价选择、商家信息展示
