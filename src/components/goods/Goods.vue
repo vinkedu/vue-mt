@@ -151,7 +151,7 @@
           height += item.clientHeight
           this.listHeight.push(height)
         }
-        console.log(this.listHeight);
+        // console.log(this.listHeight);
       },
       selectMenu(index) {
         //运用BScroll接口，滚动到相应位置
